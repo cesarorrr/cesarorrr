@@ -13,7 +13,11 @@
   </a>
 </div>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm César Rodríguez Ramírez from Barcelona, Spain<br>
+  <br>
+    - 🔭 I’m looking for a job<br> 
+    - 📚 I’m going to start a Master's in AI and Big Data<br>
+    -⚡ In my free time, I enjoy training</p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
