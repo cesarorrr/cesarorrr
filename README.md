@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://blog.ssd.com.py/wp-content/uploads/2022/06/informatica-lenguajes-de-programacion-SSD-Paraguay-jpg-1.jpg"  />
+  <img height="150" width="100%" src="https://blog.ssd.com.py/wp-content/uploads/2022/06/informatica-lenguajes-de-programacion-SSD-Paraguay-jpg-1.jpg"  />
 </div>
 
 ###
